@@ -14,6 +14,24 @@
 		2F4D86262134FA1000F3BCED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F4D86242134FA1000F3BCED /* LaunchScreen.storyboard */; };
 		2F4D86312134FA1100F3BCED /* TextureDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86302134FA1100F3BCED /* TextureDemoTests.swift */; };
 		2F4D863C2134FA1100F3BCED /* TextureDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D863B2134FA1100F3BCED /* TextureDemoUITests.swift */; };
+		2F4D864E2134FA4B00F3BCED /* ASDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D864A2134FA4B00F3BCED /* ASDetailVC.swift */; };
+		2F4D864F2134FA4B00F3BCED /* ASVC_Demo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D864B2134FA4B00F3BCED /* ASVC_Demo.swift */; };
+		2F4D86502134FA4B00F3BCED /* DetailRootNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D864C2134FA4B00F3BCED /* DetailRootNode.swift */; };
+		2F4D86512134FA4B00F3BCED /* DetailCellNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D864D2134FA4B00F3BCED /* DetailCellNode.swift */; };
+		2F4D86562134FA5200F3BCED /* ItemNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86532134FA5200F3BCED /* ItemNode.swift */; };
+		2F4D86572134FA5200F3BCED /* CollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86542134FA5200F3BCED /* CollectionViewController.swift */; };
+		2F4D86582134FA5200F3BCED /* SupplementaryNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86552134FA5200F3BCED /* SupplementaryNode.swift */; };
+		2F4D865B2134FA5600F3BCED /* UIImage+Additions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D865A2134FA5600F3BCED /* UIImage+Additions.swift */; };
+		2F4D865E2134FA5A00F3BCED /* GIFViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D865D2134FA5A00F3BCED /* GIFViewController.swift */; };
+		2F4D86632134FA5E00F3BCED /* CustomMapAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86602134FA5E00F3BCED /* CustomMapAnnotation.swift */; };
+		2F4D86642134FA5E00F3BCED /* MapHandlerNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86612134FA5E00F3BCED /* MapHandlerNode.swift */; };
+		2F4D86652134FA5E00F3BCED /* MapVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86622134FA5E00F3BCED /* MapVC.swift */; };
+		2F4D86682134FA6300F3BCED /* TransitionNodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86672134FA6300F3BCED /* TransitionNodeViewController.swift */; };
+		2F4D866D2134FA6800F3BCED /* VideoNodeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D866A2134FA6800F3BCED /* VideoNodeController.swift */; };
+		2F4D866E2134FA6800F3BCED /* VideoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D866B2134FA6800F3BCED /* VideoModel.swift */; };
+		2F4D866F2134FA6800F3BCED /* VideoContentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D866C2134FA6800F3BCED /* VideoContentCell.swift */; };
+		2F4D86752134FB0600F3BCED /* CustomCellNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4D86742134FB0600F3BCED /* CustomCellNode.swift */; };
+		3B32CCBFB19FD47252194529 /* Pods_TextureDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4B5305B99BE949F538084162 /* Pods_TextureDemo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +65,27 @@
 		2F4D86372134FA1100F3BCED /* TextureDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TextureDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F4D863B2134FA1100F3BCED /* TextureDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextureDemoUITests.swift; sourceTree = "<group>"; };
 		2F4D863D2134FA1100F3BCED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F4D864A2134FA4B00F3BCED /* ASDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ASDetailVC.swift; sourceTree = "<group>"; };
+		2F4D864B2134FA4B00F3BCED /* ASVC_Demo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ASVC_Demo.swift; sourceTree = "<group>"; };
+		2F4D864C2134FA4B00F3BCED /* DetailRootNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailRootNode.swift; sourceTree = "<group>"; };
+		2F4D864D2134FA4B00F3BCED /* DetailCellNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailCellNode.swift; sourceTree = "<group>"; };
+		2F4D86532134FA5200F3BCED /* ItemNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemNode.swift; sourceTree = "<group>"; };
+		2F4D86542134FA5200F3BCED /* CollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionViewController.swift; sourceTree = "<group>"; };
+		2F4D86552134FA5200F3BCED /* SupplementaryNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SupplementaryNode.swift; sourceTree = "<group>"; };
+		2F4D865A2134FA5600F3BCED /* UIImage+Additions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Additions.swift"; sourceTree = "<group>"; };
+		2F4D865D2134FA5A00F3BCED /* GIFViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GIFViewController.swift; sourceTree = "<group>"; };
+		2F4D86602134FA5E00F3BCED /* CustomMapAnnotation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomMapAnnotation.swift; sourceTree = "<group>"; };
+		2F4D86612134FA5E00F3BCED /* MapHandlerNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapHandlerNode.swift; sourceTree = "<group>"; };
+		2F4D86622134FA5E00F3BCED /* MapVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapVC.swift; sourceTree = "<group>"; };
+		2F4D86672134FA6300F3BCED /* TransitionNodeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransitionNodeViewController.swift; sourceTree = "<group>"; };
+		2F4D866A2134FA6800F3BCED /* VideoNodeController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoNodeController.swift; sourceTree = "<group>"; };
+		2F4D866B2134FA6800F3BCED /* VideoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoModel.swift; sourceTree = "<group>"; };
+		2F4D866C2134FA6800F3BCED /* VideoContentCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoContentCell.swift; sourceTree = "<group>"; };
+		2F4D86702134FAD000F3BCED /* TextureDemo-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TextureDemo-Bridging-Header.h"; sourceTree = "<group>"; };
+		2F4D86742134FB0600F3BCED /* CustomCellNode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCellNode.swift; sourceTree = "<group>"; };
+		38460AB199A51688D2D24383 /* Pods-TextureDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TextureDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TextureDemo/Pods-TextureDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		4B5305B99BE949F538084162 /* Pods_TextureDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TextureDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		81774333CD2E416C3DB80B94 /* Pods-TextureDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TextureDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-TextureDemo/Pods-TextureDemo.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +93,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B32CCBFB19FD47252194529 /* Pods_TextureDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +121,8 @@
 				2F4D862F2134FA1100F3BCED /* TextureDemoTests */,
 				2F4D863A2134FA1100F3BCED /* TextureDemoUITests */,
 				2F4D86192134FA1000F3BCED /* Products */,
+				7E2F7B323A910951E698EE11 /* Pods */,
+				93BBF758BCBF74D63AF2110B /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,12 +139,21 @@
 		2F4D861A2134FA1000F3BCED /* TextureDemo */ = {
 			isa = PBXGroup;
 			children = (
+				2F4D86692134FA6800F3BCED /* VideoNode_Demo */,
+				2F4D86662134FA6300F3BCED /* TransitionNode_Demo */,
+				2F4D865F2134FA5E00F3BCED /* MapHandler_Demo */,
+				2F4D865C2134FA5A00F3BCED /* GIF_Demo */,
+				2F4D86592134FA5600F3BCED /* Extensions */,
+				2F4D86522134FA5200F3BCED /* CollectionView_Demo */,
+				2F4D86492134FA4B00F3BCED /* ASViewController_Demo */,
 				2F4D861B2134FA1000F3BCED /* AppDelegate.swift */,
 				2F4D861D2134FA1000F3BCED /* ViewController.swift */,
+				2F4D86742134FB0600F3BCED /* CustomCellNode.swift */,
 				2F4D861F2134FA1000F3BCED /* Main.storyboard */,
 				2F4D86222134FA1000F3BCED /* Assets.xcassets */,
 				2F4D86242134FA1000F3BCED /* LaunchScreen.storyboard */,
 				2F4D86272134FA1000F3BCED /* Info.plist */,
+				2F4D86702134FAD000F3BCED /* TextureDemo-Bridging-Header.h */,
 			);
 			path = TextureDemo;
 			sourceTree = "<group>";
@@ -125,6 +176,88 @@
 			path = TextureDemoUITests;
 			sourceTree = "<group>";
 		};
+		2F4D86492134FA4B00F3BCED /* ASViewController_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D864A2134FA4B00F3BCED /* ASDetailVC.swift */,
+				2F4D864B2134FA4B00F3BCED /* ASVC_Demo.swift */,
+				2F4D864C2134FA4B00F3BCED /* DetailRootNode.swift */,
+				2F4D864D2134FA4B00F3BCED /* DetailCellNode.swift */,
+			);
+			path = ASViewController_Demo;
+			sourceTree = "<group>";
+		};
+		2F4D86522134FA5200F3BCED /* CollectionView_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D86532134FA5200F3BCED /* ItemNode.swift */,
+				2F4D86542134FA5200F3BCED /* CollectionViewController.swift */,
+				2F4D86552134FA5200F3BCED /* SupplementaryNode.swift */,
+			);
+			path = CollectionView_Demo;
+			sourceTree = "<group>";
+		};
+		2F4D86592134FA5600F3BCED /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D865A2134FA5600F3BCED /* UIImage+Additions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		2F4D865C2134FA5A00F3BCED /* GIF_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D865D2134FA5A00F3BCED /* GIFViewController.swift */,
+			);
+			path = GIF_Demo;
+			sourceTree = "<group>";
+		};
+		2F4D865F2134FA5E00F3BCED /* MapHandler_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D86602134FA5E00F3BCED /* CustomMapAnnotation.swift */,
+				2F4D86612134FA5E00F3BCED /* MapHandlerNode.swift */,
+				2F4D86622134FA5E00F3BCED /* MapVC.swift */,
+			);
+			path = MapHandler_Demo;
+			sourceTree = "<group>";
+		};
+		2F4D86662134FA6300F3BCED /* TransitionNode_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D86672134FA6300F3BCED /* TransitionNodeViewController.swift */,
+			);
+			path = TransitionNode_Demo;
+			sourceTree = "<group>";
+		};
+		2F4D86692134FA6800F3BCED /* VideoNode_Demo */ = {
+			isa = PBXGroup;
+			children = (
+				2F4D866A2134FA6800F3BCED /* VideoNodeController.swift */,
+				2F4D866B2134FA6800F3BCED /* VideoModel.swift */,
+				2F4D866C2134FA6800F3BCED /* VideoContentCell.swift */,
+			);
+			path = VideoNode_Demo;
+			sourceTree = "<group>";
+		};
+		7E2F7B323A910951E698EE11 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				38460AB199A51688D2D24383 /* Pods-TextureDemo.debug.xcconfig */,
+				81774333CD2E416C3DB80B94 /* Pods-TextureDemo.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		93BBF758BCBF74D63AF2110B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4B5305B99BE949F538084162 /* Pods_TextureDemo.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +265,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F4D86402134FA1100F3BCED /* Build configuration list for PBXNativeTarget "TextureDemo" */;
 			buildPhases = (
+				77A61FC693E937DE3444E984 /* [CP] Check Pods Manifest.lock */,
 				2F4D86142134FA1000F3BCED /* Sources */,
 				2F4D86152134FA1000F3BCED /* Frameworks */,
 				2F4D86162134FA1000F3BCED /* Resources */,
+				1AF2ABBA9E88CC5EBF8C50DE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -193,6 +328,7 @@
 				TargetAttributes = {
 					2F4D86172134FA1000F3BCED = {
 						CreatedOnToolsVersion = 9.4.1;
+						LastSwiftMigration = 0940;
 					};
 					2F4D862B2134FA1100F3BCED = {
 						CreatedOnToolsVersion = 9.4.1;
@@ -251,13 +387,79 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		1AF2ABBA9E88CC5EBF8C50DE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-TextureDemo/Pods-TextureDemo-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Kingfisher/Kingfisher.framework",
+				"${BUILT_PRODUCTS_DIR}/PINCache/PINCache.framework",
+				"${BUILT_PRODUCTS_DIR}/PINOperation/PINOperation.framework",
+				"${BUILT_PRODUCTS_DIR}/PINRemoteImage/PINRemoteImage.framework",
+				"${BUILT_PRODUCTS_DIR}/Texture/AsyncDisplayKit.framework",
+				"${BUILT_PRODUCTS_DIR}/Then/Then.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Kingfisher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PINCache.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PINOperation.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/PINRemoteImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AsyncDisplayKit.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Then.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-TextureDemo/Pods-TextureDemo-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		77A61FC693E937DE3444E984 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TextureDemo-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2F4D86142134FA1000F3BCED /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F4D86632134FA5E00F3BCED /* CustomMapAnnotation.swift in Sources */,
+				2F4D866F2134FA6800F3BCED /* VideoContentCell.swift in Sources */,
+				2F4D86752134FB0600F3BCED /* CustomCellNode.swift in Sources */,
+				2F4D86582134FA5200F3BCED /* SupplementaryNode.swift in Sources */,
+				2F4D86512134FA4B00F3BCED /* DetailCellNode.swift in Sources */,
 				2F4D861E2134FA1000F3BCED /* ViewController.swift in Sources */,
 				2F4D861C2134FA1000F3BCED /* AppDelegate.swift in Sources */,
+				2F4D866D2134FA6800F3BCED /* VideoNodeController.swift in Sources */,
+				2F4D86682134FA6300F3BCED /* TransitionNodeViewController.swift in Sources */,
+				2F4D864E2134FA4B00F3BCED /* ASDetailVC.swift in Sources */,
+				2F4D866E2134FA6800F3BCED /* VideoModel.swift in Sources */,
+				2F4D86572134FA5200F3BCED /* CollectionViewController.swift in Sources */,
+				2F4D864F2134FA4B00F3BCED /* ASVC_Demo.swift in Sources */,
+				2F4D86502134FA4B00F3BCED /* DetailRootNode.swift in Sources */,
+				2F4D865E2134FA5A00F3BCED /* GIFViewController.swift in Sources */,
+				2F4D86562134FA5200F3BCED /* ItemNode.swift in Sources */,
+				2F4D86652134FA5E00F3BCED /* MapVC.swift in Sources */,
+				2F4D86642134FA5E00F3BCED /* MapHandlerNode.swift in Sources */,
+				2F4D865B2134FA5600F3BCED /* UIImage+Additions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -428,8 +630,10 @@
 		};
 		2F4D86412134FA1100F3BCED /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 38460AB199A51688D2D24383 /* Pods-TextureDemo.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = TextureDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -438,6 +642,8 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hengchang.TextureDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TextureDemo/TextureDemo-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -445,8 +651,10 @@
 		};
 		2F4D86422134FA1100F3BCED /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 81774333CD2E416C3DB80B94 /* Pods-TextureDemo.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = TextureDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,6 +663,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.hengchang.TextureDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "TextureDemo/TextureDemo-Bridging-Header.h";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
